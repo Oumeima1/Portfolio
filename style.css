@@ -1,0 +1,24 @@
+body{
+    background: #CCC;
+}
+#Header .a:hover{
+color:#fff;
+}
+#Navbar{
+    display:flex;
+}
+#bg-img{
+    background: url("https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851__340.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height:500px;
+}
+#About{
+    margin-top:+85px;
+}
+.card-title{
+    margin-top: 200px;
+}
+#About .fa{
+    color:white;
+}
